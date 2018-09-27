@@ -7,7 +7,11 @@
   
   Promise的实现 `PromiseA+规范`
 
-- `timeoutFetch`
+- `cancelable-promise`
+  
+  事件发收器
+
+- `timeout-fetch`
   
   可设置timeout的fetch
   
