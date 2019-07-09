@@ -1,4 +1,4 @@
-# JSStudy
+# js learning
 学习`JavaScript`的记录
 
 ## 目前已有
@@ -18,3 +18,7 @@
 - `EventEmitter`
   
   事件发收器
+
+- `async js demo`
+
+  异步js事例
