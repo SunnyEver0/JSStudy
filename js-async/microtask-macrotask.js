@@ -22,3 +22,11 @@ console.log('hello world1');
 
 main();
 
+// var start = new Date();
+// var end = 0;
+// setTimeout(function () {
+//   console.log(new Date - start);
+// }, 500);
+
+// while (new Date() - start <= 1000) {}
+
